@@ -1,2 +1,2 @@
 # FastAPI-CRUD
-sample crun application using FastAPI,beanie and MongoDB
+sample crud application using FastAPI,beanie and MongoDB
